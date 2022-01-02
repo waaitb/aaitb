@@ -3,7 +3,7 @@
 
 - 🌱 In my free time, I love to travel, try new foods, and practice community engagement.  
 - ✌️ I'm looking to connect and collaborate with other (student) software engineers!
-- 🔭 I believe in learn-teach-learn
-- ⚡  2022 Goal: Collaborate on more open source projects. 
+- 📝 I believe in learn-teach-learn
+- 💡  2022 Goal: Collaborate on more open source projects. 
 - 😄 Pronouns: She/Her
 - 💬 Ask me about anything, I would love to help!
